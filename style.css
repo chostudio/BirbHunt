@@ -1,1 +1,10 @@
 /* style for the main page */
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* style for the cursor, change regular.png into the name of the mouse cursor picture*/
+html {
+    cursor: url("regular.png"), auto;
+}
