@@ -7,4 +7,13 @@ h1 {
 /* style for the cursor, change regular.png into the name of the mouse cursor picture*/
 html {
     cursor: url("regular.png"), auto;
+
+}
+div.legend {
+    border: solid rgb(158, 110, 42) 3px;
+    width: 200px;
+    
+}
+body{
+    background-image:https://images.squarespace-cdn.com/content/v1/5964f5238419c2c40fd2b4eb/1582044798382-M5Z52NGSJY3TEWBDNPK0/Pond+at+DPNC.jpg?format=1500w
 }
