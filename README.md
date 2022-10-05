@@ -1,3 +1,3 @@
 # BirbHunt
 
-Duck Hunt but badder
+Duck Hunt but very bad
