@@ -7,4 +7,16 @@ h1 {
 /* style for the cursor, change regular.png into the name of the mouse cursor picture*/
 html {
     cursor: url("regular.png"), auto;
+
+}
+div.legend {
+    border: solid rgb(158, 110, 42) 3px;
+    width: 200px;
+    
+}
+body {
+    /*
+    Placeholder image
+    */
+    background-image: url("assets/background.jpg");
 }
