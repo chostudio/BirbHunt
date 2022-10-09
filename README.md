@@ -1,3 +1,3 @@
 # BirbHunt
 
-Duck Hunt but very bad
+Duck Hunt clone
