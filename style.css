@@ -16,6 +16,7 @@ div.legend {
     height: 100px;
     
 }
+
 body{
     background-image: url('../assets/pixilart-layers/pixil-layer-3.png') , url('../assets/pixilart-layers/pixil-layer-4.png'),url('../assets/pixilart-layers/pixil-layer-0.png');
     background-repeat: no-repeat;
@@ -37,4 +38,3 @@ p{
     position: -100px;
     
 }
-
