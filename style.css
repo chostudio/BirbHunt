@@ -21,12 +21,7 @@ body{
     background-image: url('assets/menu/title/background/grass.png'), url('assets/menu/title/background/sun.png'), url('assets/menu/title/background/sky.png');
     background-repeat: no-repeat;
     background-size: 100%, 80%, 100%;
-    /* IDK man seems sus 
-    * The sun is not correctly aligned to the edge of the webpage
-    * I am too tired to fix it rn so if anyone wants to help they can. I will try fix tmr 
-    */
     background-position: 0px 15px, 257px 0px, 0px 0px;
-
 }
 
 p{
