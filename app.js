@@ -1,5 +1,8 @@
 //functionality for the birds, points, etc.
-//a
+var score;
+var shots;
+let birb = document.createElement("button");
+var wave;
 
 //moving the birds
 
