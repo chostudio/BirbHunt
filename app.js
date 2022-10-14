@@ -19,9 +19,11 @@ var startRetry = document.createElement("button");
 var gameState = GameState.MENU
 
 //functionality for the birds, points, etc.
+function birbDed(){
 
+}
 //moving the birds
 
 //cursor on click
-
+birb.addEventListener("click", birbDed)
 //points
