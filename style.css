@@ -1,4 +1,12 @@
 /* style for the main page */
+body {
+    background-image: url('assets/menu/title/background/sun.png');
+    background-color: #87CFEB;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: right 0px;
+    user-select: none;
+}
 
 h1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -20,19 +28,8 @@ div.legend {
 
     width: 290px;
     height: 100px;
-    /* makes text unhiglightable */
-    user-select: none;
+    
 }
-
-body {
-    background-image: url('assets/menu/title/background/sun.png');
-    background-color: #87CFEB;
-    background-repeat: no-repeat;
-    background-size: 100%;
-    background-position: right 0px,
-}
-
-
 
 .startButton {
 
@@ -61,8 +58,6 @@ body {
     left: 0px;
 
 }
-
-
 
 p {
     font-family: 'Press Start 2P', serif;
