@@ -18,11 +18,6 @@ var wave;
 var startRetry = document.createElement("button");
 var gameState = GameState.MENU
 
-
-
-
-
-
 //functionality for the birds, points, etc.
 
 //moving the birds
