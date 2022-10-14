@@ -19,16 +19,17 @@ html {
     overflow-x: hidden;
     overflow-y: hidden;
     /* makes the cursor cross hair */
-    cursor: cell;
+    cursor: url("assets/crosshair.png"), default;
     /* pointer events makes it so you cant drag the images */
     pointer-events: none;
 }
+
 
 div.legend {
 
     width: 290px;
     height: 100px;
-    
+
 }
 
 .startButton {
